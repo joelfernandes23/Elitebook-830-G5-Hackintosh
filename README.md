@@ -17,11 +17,11 @@
 * Volume keys, Keyboard backlight and Brightness
 * Battery percentage and cycle count
 * Sleep/Wake-up. There is no type C output but reconnects after changing display mode.
+* WiFi - I use an external Wifi Dongle. 
 
-##Not tested
+## Not Tested
 * HDMI Out
 * Bluetooth
-* WiFi
 
 Huge thanks to [kecinzer](https://github.com/kecinzer/hpelitebook850g5-opencore)<br>
 For Bios settings please refer to: https://github.com/kecinzer/hpelitebook850g5-opencore
